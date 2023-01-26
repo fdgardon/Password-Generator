@@ -3,7 +3,14 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
 
-var numCharacter = prompt ("How much number of Character you want between 8 and 128?");
+var numCharacter = prompt ("How much number of characters you want between 8 and 128?");
+
+if (numCharacter < 8 || numCharacter > 128) {
+   alert("The password should be 8 to 128") 
+   generatePassword()
+}
+  
+
 var numbers = confirm ("Do you want to use numbers in your password?");
 var uppercases = confirm ("Do you want to use Uppercases in your password?");
 var lowercases = confirm ("Do you want to use lowercases in your password?");
