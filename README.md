@@ -21,4 +21,4 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-Check my work - Click!
+Check my work - Click! https://fdgardon.github.io/Password-Generator/
