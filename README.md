@@ -12,7 +12,7 @@ HTML
 CSS
 Javascript
 README
-Image of FullStackable
+[Image of FullStackable](https://github.com/nKingchaos2284/fun-finder.git)
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
